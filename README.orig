@@ -1,0 +1,12 @@
+Description
+    This script provide 2 commands permitting some dialog 
+    with the Microsoft Powershell.
+
+    Lines can be evaluated within vim, no filtering allowed 
+    for the moment.
+ 
+install details
+    drop it in your ~/.vim/plugin or ~/vimfiles/plugin directory
+    or put it in a ~/.vim/bundle/powershellCall folder if you're
+    using pathogen
+
